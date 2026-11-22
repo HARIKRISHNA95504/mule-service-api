@@ -42,7 +42,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 ---
 {
 	"final_token": payload.token,
-	"action": "generating a new token due to invalid token"
+	"action": "generating a New Token Due to Invalid Token"
 }]]></ee:set-payload>
 							</ee:message>
 						</ee:transform>
